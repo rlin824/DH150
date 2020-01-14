@@ -5,9 +5,11 @@ As mental health awareness grows in modern times, digital technology offers more
 
 ## Heuristic Evaluation 1: Mood
 
+![Screenshots](https://i.ibb.co/zJvKv5M/2-A93-DD90-5-C4-B-45-E8-A7-B5-A51591-FB1-CD9.jpg) 
+
 [Link to App Store](https://apps.apple.com/us/app/mood-journal-anxiety-chat/id1241839696)
 
-The Mood app is a combination of a mood tracker and community board. It allows the user to record thoughts and moods privately, as well as offers the option to post publicly to the app's community of users with a sense of support through both a "Let It Out" status update section and realtime "Live Vent" feature. Though the concept is unique and valuable, the user experience seems limited and unfinished for both the personal, individual experience, as well as the social aspect of the app. Lack of user freedom and a non-inuitive layout make the mood tracking process seem less personal, and the constrained functions of the community features fails to actually facilitate real human connection and support. Overall, I believe that to achieve its goals, the Mood app should better restructure its UX to create a seamless transition between its individual and community functions, rather than trying to approach the app with 2 different functions that both appear incomplete.  
+The Mood app is a combination of a mood tracker and community board. It allows the user to record thoughts and moods privately, as well as offers the option to post publicly to the app's community of users with a sense of support through both a "Let It Out" status update section and realtime "Live Vent" feature. Though the concept is unique and valuable, the user experience seems limited and unfinished for both the personal, individual experience, as well as the social aspect of the app. Lack of user freedom and a non-intuitive layout make the mood tracking process seem less personal, and the constrained functions of the community features fails to actually facilitate real human connection and support. Overall, I believe that to achieve its goals, the Mood app should better restructure its UX to create a seamless transition between its individual and community functions, rather than trying to approach the app with 2 different functions that both appear incomplete.  
 
 ### #1: Visibility of system status
 Though the app does provide an icon for you to add a text description to a mood entry, it would be more effective to present it as a second step in the process of posting a mood entry (perhaps as a tab at the top of the screen or to have a progress bar since the icons get covered by the entry mood emoticons). Some people may want to add a description each time to their mood entry, but may skip over the icon and accidentally immediately post the status. (1)
@@ -38,18 +40,20 @@ There is no confirmation notification when posting a new mood entry. (3)
 ### #7: Flexibility and efficiency of use
 Even though posting a mood entry does not take too long, a shortcut/quick add mood entry option on the news feed with commonly used moods would help if someone wants to add a mood entry but does not have time to go through the whole posting process. (1) 
 
-Having a notification to track mood and quick add from notification would also help for those mood tracking on the go. (1).
+Having a notification to track mood and quick add from notification would also help for those mood tracking on the go. (1)
 
 ### #8: Aesthetic and minimalist design
 Design is clean and minimalistic, but color choices can be hard to read for users (red search bar with non-contrasting text). The app changes color schemes to match the current mood entries of the user, but that can be jarring when re-opening the app and frustrating for the user who cannot edit the color scheme. (2)
 
 ### #9: Help users recognize, diagnose, and recover from errors
-There are no error messages. App occasionally crashes when user tries to open it without any indication of what the error is. (4)
+There are no error messages. App occasionally crashes when user tries to open it without any indication of what the error is. (3)
 
 ### #10: Help and documentation
 There is no help/FAQ section. There is an about section (“What is Mood?”) that describes different uses and functions of the features, but it would help to have a tutorial or a walkthrough of the app at easy access. (3)
 
 ## Heuristic Evaluation 2: Moodtrack
+
+![Screenshots](https://i.ibb.co/n1B1R1y/DD1-B5-D01-0-E7-E-4-DA3-9-CFA-9-C1-D90-CA6-D65.jpg) 
 
 [Link to App Store](https://apps.apple.com/us/app/moodtrack-social-diary/id549251057)
 

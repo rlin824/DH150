@@ -73,6 +73,8 @@ The search function and icon in the "Everyone" news feed on first instinct sugge
 
 In the menu on the left hand side, some links lead you to actual pages, while other simply open up pop up windows that you have to click out of to exit, making the user experience less seamless. (2)
 
+The buttons on the mood log page make it difficult to explore moods by date. The "+" and "-" signs are not as intuitive as a magnifying glass for zooming in/out on the timeline and could potentially confuse the user when trying to make a new post. (2)
+
 ### #5: Error prevention
 There is no confirmation notification when posting a new mood entry, but the "Add" button does make it clear that the user is adding an entry. (1)
 

@@ -7,7 +7,7 @@ ShareMood is a mood-tracking and mental health app designed to be integrated int
 **TASKS**
 1. Sign up for a new account + go through customization step to add planning feature 
 2. Set up journal with daily prompts
-3. Create a new journal entry
+3. Create a new journal entry (for a day when user is feeling insecure)
 
 ### Screen Designs
 ![Image](https://i.ibb.co/kQRXhPG/Untitled-1.png)

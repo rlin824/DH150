@@ -2,7 +2,7 @@
 ## Assignment08: High Fidelity Prototype by Rebecca Lin
 
 ### Project Description
-ShareMood is a mood-tracking and mental health app designed to be integrated into the college student's lifestyle. This high fidelity prototype of the app is meant to test the real usability of the app for its target users/personas. For the process, I used Figma to model this interactive prototype from my wireframe sketches on paper. 
+ShareMood is a mood-tracking and mental health app designed to be integrated into the college student's lifestyle. This high fidelity prototype of the app is meant to test the real usability of the app for its target users/personas (though I did not have time yet to test the prototype with users). For the process, I used Figma to model this interactive prototype from my wireframe sketches on paper. 
 
 **TASKS**
 1. Sign up for a new account + go through customization step to add planning feature 

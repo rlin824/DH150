@@ -67,6 +67,8 @@ Using Figma, I created a high-fidelity prototype from the wireflow with a modern
 ### Pitch Video 
 In the pitch video below, I take you through the process of designing ShareMood.
 
+[![img](https://img.youtube.com/vi/YFZz7et1Eko/0.jpg)](https://www.youtube.com/watch?v=YFZz7et1Eko)
+
 ### Conclusion: Lessons Learned
 Having no prior experience in UX/UI, I was exposed to an entirely new process of research and testing that goes into creating a good user experience. It really drove home the idea that every design decision should be deliberate and informed. Having graphic design experience, I realized I would often get sidetracked by creating the interface design, which distracted me from the original goals of the UX design process, and in the end, I felt like I had abandoned some of the insights I gained through user research and didn't get to fully execute my application idea. Now I know that people will always choose the app that is functional over the app that is simply beautiful and doesn't consider the user; I am much more appreciative of the elements that go into UX design, such as predicting and understanding user behavior, user accessibility standards, and attention to detail to buttons and exits. From the user perspective, it is easy to take what is given at face value, but it truly requires incredible planning and research to create an "easy-to-use" app, and there are no shortcuts to the design process.
 

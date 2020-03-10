@@ -18,19 +18,37 @@ I chose two popular social mood tracking apps, Mood and Moodtrack, available on 
 (Read more about [the heuristic evaluation here](https://rlin824.github.io/DH150/assignment01/).)
 
 #### Usability Testing
-Because both of these apps were geared toward a mass market, I wanted to get more insight into how specifically a college student would interact with these apps. I conducted a usability test with a UCLA senior looking at three routine tasks that addressed the mood tracking and social support goals of the Moodtrack app: (1) Making a new mood entry, (2) Analyzing past mood logs, and (3) Engaging with other users on the app.
+Because both of these apps were geared toward a mass market, I wanted to get more insight into how specifically a college student would interact with them. I conducted a usability test with a UCLA senior looking at three routine tasks that addressed the mood tracking and social support goals of the Moodtrack app: (1) Making a new mood entry, (2) Analyzing past mood logs, and (3) Engaging with other users on the app.
 
 Though my participant found relative ease completing the tasks, I was able to note through her journey confusing buttons and features that complicated the user experience. Her responses helped to confirm students' desire and need for such an app, as well as the lack of navigability on current apps that can make it hard for users to engage with the app most effectively. 
 
 (Read more about [the usability test here](https://rlin824.github.io/DH150/assignment02/).)
 
-### User Research:
-Through the usability testing, I was able to learn a lot about how an average college student may use a mood tracking app, but I wanted more insight into what sort of additional features college students would most benefit from in regards to mental health resources. In my contextual inquiry, I interviewed a UCLA student also living with depression and anxiety to see what mental health tools they currently use in their daily lives. The participant notably mentioned how she would benefit from using a mood tracker that is better integrated into her daily life. 
+### User Research
+Through the usability testing, I was able to learn a lot about how an average college student may use a mood tracking app, but I wanted more insight into what sort of additional features college students would most benefit from in regards to mental health resources. In my contextual inquiry, I interviewed a UCLA student also living with depression and anxiety to see what mental health tools they currently use in their daily lives. Most notably the participant mentioned how she would benefit from using a mood tracker that is better integrated into her daily life planner, which helped me to reshift my focus in the design process. 
 
 (Read more about [the user research here](https://rlin824.github.io/DH150/assignment04/).)
 
-### UX Storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+### UX Storytelling
+I created three personas and user journeys based on different college students' needs.
+
+#### Persona 1: "Gen Z"
+
+| Persona | User Journey|
+| ------- | ------- |
+| ![Screenshots](https://i.imgur.com/iQKbbTZ.jpg) | ![Screenshots](https://i.imgur.com/VVLwfXu.jpg)|
+
+#### Persona 2: "Struggling Senior"
+
+| Persona | User Journey|
+| ------- | ------- |
+| ![Screenshots](https://i.imgur.com/DZQOxiM.jpg) | ![Screenshots](https://i.imgur.com/MohQELa.jpg)|
+
+#### Persona 3: "New Adult"
+
+| Persona | User Journey|
+| ------- | ------- |
+| ![Screenshots](https://i.imgur.com/F3j5Mta.jpg) | ![Screenshots](https://i.imgur.com/LmTYlMQ.jpg)|
 
 (Read more about [the personas and scenarios here](https://docs.google.com/presentation/d/1ScHtMN3vuFpFx_y3vPPDzMlzgD3jUa7kmKOPThWwCD0/edit?usp=sharing).)
 

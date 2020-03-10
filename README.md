@@ -55,7 +55,7 @@ I created three personas and user journeys based on different needs in a college
 ### Wireframe and Low-fidelity Prototype (Wireflow and Testing)
 Based on the usability testing, contextual inquiry, and user personas and scenarios, I created a low-fidelity prototype with wireframes and wireflow to map out three tasks: (1) user sign up, (2) customizing journal options, and (3) creating a journal entry. I tested this wireflow with a user to evaluate if the wireframe progression would be user-friendly. I learned that I had to make changes in clarifying button and page functions and making sure to add exit/back buttons.
 
-![Screenshots](https://i.imgur.com/undefined.jpg)
+![Screenshots](https://i.imgur.com/ceTbO6O.jpg)
  
 (Read more about the [low-fidelity prototype here](https://rlin824.github.io/DH150/assignment07/).)
 

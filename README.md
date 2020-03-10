@@ -13,35 +13,40 @@ I chose two popular social mood tracking apps, Mood and MoodTrack, available on 
 
 | Mood | MoodTrack |
 | ------- | ------- |
-| ![Screenshots](https://i.ibb.co/zJvKv5M/2-A93-DD90-5-C4-B-45-E8-A7-B5-A51591-FB1-CD9.jpg) | https://i.ibb.co/n1B1R1y/DD1-B5-D01-0-E7-E-4-DA3-9-CFA-9-C1-D90-CA6-D65.jpg |
+| ![Screenshots](https://i.ibb.co/zJvKv5M/2-A93-DD90-5-C4-B-45-E8-A7-B5-A51591-FB1-CD9.jpg) | ![Screenshots](https://i.ibb.co/n1B1R1y/DD1-B5-D01-0-E7-E-4-DA3-9-CFA-9-C1-D90-CA6-D65.jpg)|
 
-Read more about [the heuristic evaluation here](https://rlin824.github.io/DH150/assignment01/). 
+(Read more about [the heuristic evaluation here](https://rlin824.github.io/DH150/assignment01/).)
 
 #### Usability Testing
 Getting more insight to how a college student would use these apps, I employed a college student to go through the app. We found that dsfdfsd
 
-Read more about [the usability test here](https://rlin824.github.io/DH150/assignment02/). 
+(Read more about [the usability test here](https://rlin824.github.io/DH150/assignment02/).)
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
-Read more about [the user research here](https://rlin824.github.io/DH150/assignment04/). 
+(Read more about [the user research here](https://rlin824.github.io/DH150/assignment04/).)
 
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 
-Read more about [the personas and scenarios here] (https://docs.google.com/presentation/d/1ScHtMN3vuFpFx_y3vPPDzMlzgD3jUa7kmKOPThWwCD0/edit?usp=sharing).
+(Read more about [the personas and scenarios here] (https://docs.google.com/presentation/d/1ScHtMN3vuFpFx_y3vPPDzMlzgD3jUa7kmKOPThWwCD0/edit?usp=sharing).)
 
 ### Wireframe and graphic design element variation [assignment07 + part of 08]
 
+(Read more about [wireframe here] (https://rlin824.github.io/DH150/assignment07/).)
 
 ### Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
+Read more about [the low-fidelity prototype here] (https://rlin824.github.io/DH150/assignment07/).
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
+Read more about [the high-fidelity prototype here] (https://rlin824.github.io/DH150/assignment08/).
+
 ### Pitch video [update the video after recording your presentation]
 
-### conclusion: what you learned throughout the process
+### Conclusion: What I learned
 

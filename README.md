@@ -25,12 +25,12 @@ Though my participant found relative ease completing the tasks, I was able to no
 (Read more about the [usability test here](https://rlin824.github.io/DH150/assignment02/).)
 
 ### User Research
-Through the usability testing, I was able to learn a lot about how an average college student may use a mood tracking app, but I wanted more insight into what sort of additional features college students would most benefit from in regards to mental health resources. In my contextual inquiry, I interviewed a UCLA student also living with depression and anxiety to see what mental health tools she currently uses in her daily lives. Most notably the participant mentioned how she would benefit from using a mood tracker that is better integrated into her daily life planner, which helped me to reshift my focus in the design process. 
+Through the usability testing, I was able to learn a lot about how an average college student may use a mood tracking app, but I wanted more insight into what sort of additional features college students would most benefit from in regards to mental health resources. In my contextual inquiry, I interviewed a UCLA student also living with depression and anxiety to see what mental health tools she currently uses in her daily lives. Most notably the participant mentioned how she would benefit from using a mood tracker that is better integrated into her daily life planner and journal, which helped me to reshift my focus in the design process. 
 
 (Read more about the [contextual inquiry here](https://rlin824.github.io/DH150/assignment04/).)
 
 ### UX Storytelling
-I created three personas and user journeys based on different college students' needs.
+I created three personas and user journeys based on different needs in a college students' life.
 
 #### Persona 1: "Gen Z"
 
@@ -50,7 +50,7 @@ I created three personas and user journeys based on different college students' 
 | ------- | ------- |
 | ![Screenshots](https://i.imgur.com/F3j5Mta.jpg) | ![Screenshots](https://i.imgur.com/LmTYlMQ.jpg)|
 
-(Read more about the [personas and scenarios here](https://docs.google.com/presentation/d/1ScHtMN3vuFpFx_y3vPPDzMlzgD3jUa7kmKOPThWwCD0/edit?usp=sharing).)
+(Read more about the [personas, journeys, and scenarios here](https://docs.google.com/presentation/d/1ScHtMN3vuFpFx_y3vPPDzMlzgD3jUa7kmKOPThWwCD0/edit?usp=sharing).)
 
 ### Wireframe and Low-fidelity Prototype (Wireflow and Testing)
 Based on the usability testing, contextual inquiry, and user personas and scenarios, I created a low-fidelity prototype with wireframes and wireflow to map out three tasks: (1) user sign up, (2) customizing journal options, and (3) creating a journal entry. I tested this wireflow with a user to evaluate if the wireframe progression would be user-friendly. I learned that I had to make changes in clarifying button and page functions and making sure to add exit/back buttons.
@@ -60,7 +60,7 @@ Based on the usability testing, contextual inquiry, and user personas and scenar
 (Read more about the [low-fidelity prototype here](https://rlin824.github.io/DH150/assignment07/).)
 
 ### High-Fidelity Prototype
-Using Figma, I created a high-fidelity prototype from the wireflow with a modern interface that was easy to navigate and personable for the college student. I utilized a calming color scheme to match the goals of the app, with rounded buttons and a sans serif font to to establish a comfortable look. 
+Using Figma, I created a high-fidelity prototype from the wireflow with a modern interface that was easy to navigate and personable for the college student. I utilized a calming color scheme to match the goals of the app, with rounded buttons and a sans serif font to to establish a comfortable and approachable look.
 
 #### (See the [live high-fidelity prototype here](https://www.figma.com/proto/NpLKwa6RbxsZXrdi5GtVie/DH150_A08?node-id=0%3A1&scaling=scale-down).)
 
